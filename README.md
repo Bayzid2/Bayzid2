@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩‍💻  About Me:
 # Hi, I'm Md. Bayzid Bostami! 👋<br><br>I recently completed my **Bachelor of Science in Computer Science and Engineering** from **Stamford University Bangladesh**. Throughout my academic journey, I have gained extensive knowledge in  **software quality assurance (SQA)**, other core areas of computer science.
 
 
@@ -16,3 +16,11 @@
 [![](https://visitcount.itsvg.in/api?id=bayzid2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
