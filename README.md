@@ -1,5 +1,5 @@
 # 👩‍💻  About Me:
-### Hi, I'm Md. Bayzid Bostami! 👋<br><br>I recently completed my **Bachelor of Science in Computer Science and Engineering** from **Stamford University Bangladesh**. Throughout my academic journey, I have gained extensive knowledge in  **software quality assurance (SQA)**, other core areas of computer science.Now i'm working as a **Software QA Engineer** in a well known IT company in Bangladesh.
+### Hi, I'm Md. Bayzid Bostami! 👋<br><br>I recently completed my **Bachelor of Science in Computer Science and Engineering** from **Stamford University Bangladesh**. Throughout my academic journey, I have gained extensive knowledge in  **software quality assurance (SQA)**, other core areas of computer science.<br><br>Now i'm working as a **Software QA Engineer** in a well known IT company in Bangladesh.
 
 
 ## 🌐 Socials:
